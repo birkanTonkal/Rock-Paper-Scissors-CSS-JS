@@ -1,6 +1,6 @@
 # Rock-Paper-Scissors
 This is a classic Rock-Paper-Scissors game. The game runs on browser and is fully responsive
-# Technologies Used
+# Built With
 * HTML
 * CSS
 * JavaScript
